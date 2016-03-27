@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+RewriteCond %{request_filename} -f
+RewriteRule ^(.*) $1 [L]
+RewriteRule ^(([^/]*)+)(/([^/]{0,32})(/.+)?)?$  index.php?a=$1&q=$3    [L]

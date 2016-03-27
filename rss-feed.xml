@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" >
+<channel>
+
+<title>Uptime-Monitor - Feed</title>
+<link>http://www.uptime-monitor.net</link>
+<description>Lasse den Status deiner Webseite regelmäßig prüfen.</description>
+
+<language>de-de</language>
+<copyright>2013 by Uptime-Monitor.net</copyright>
+
+<image>
+<title>Uptime-Monitor.net</title>
+<url>http://www.uptime-monitor.net/img/release/logo.png</url>
+<link>http://www.uptime-monitor.net</link>
+</image>
+
+<item>
+<title>"Test.de" ist offline gegangen</title>
+<link>http://www.uptime-monitor.net/monitor</link>
+<description>Ihre Webseite ist offline gegangen</description>
+</item>
+
+<pubDate>Mon, 16 Jun 2013 15:25:30 GMT</pubDate>
+
+</channel>
+</rss>
